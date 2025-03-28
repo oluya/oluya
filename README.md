@@ -17,15 +17,11 @@ I'm passionate about building innovative tech solutions that drive impact. From 
 
 🎮 Shadows of Nairobi – A text-based adventure game in Python
 
-💻 Tech Stack:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oluya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oluya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oluya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Python | Flask | FastAPI | Django
-
-Machine Learning | Sentiment Analysis
-
-SQL | PostgreSQL | MongoDB
-
-Git | Docker | Linux
 
 📫 Let's connect!
 
@@ -36,3 +32,6 @@ LinkedIn: www.linkedin.com/in/jude-oluya
 Portfolio: [Coming soon 🚀]
 
 🔍 Always exploring new ideas, let’s build something amazing!
+### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
