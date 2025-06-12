@@ -29,7 +29,7 @@ GitHub: github.com/oluya
 
 LinkedIn: www.linkedin.com/in/jude-oluya
 
-Portfolio: [Coming soon 🚀]
+Portfolio: https://oluyajude.com/
 
 🔍 Always exploring new ideas, let’s build something amazing!
 ### ✍️ 
